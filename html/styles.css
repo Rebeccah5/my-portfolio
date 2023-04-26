@@ -1,0 +1,39 @@
+body {
+    background-color: #C0C0C0;
+  }
+
+
+.navbar a {
+  float: right;
+  color: #145369;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #C0C0C0;
+  color:#be2596;
+}
+
+.navbar a.active {
+  background-color: none;
+  color: white;
+}
+
+.logo {
+  color: #145369;
+  font-size: 30;
+  font-weight: bold;
+  font-style: Reem Kufi;
+  float: left;
+  padding-bottom: 14px;
+  padding-left: 16;
+
+}
+
+.intro {
+  padding-right: 16px;
+  padding-top: 30px ;
+}
